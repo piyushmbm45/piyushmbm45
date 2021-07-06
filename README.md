@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Piyush Jain
+## Hi there 👋🏻, I'm Piyush Jain
 ##### 😍 Future Full Stack Web Developer
 ![Future Full Stack Web Developer](https://github.com/piyushmbm45/piyushmbm45/blob/main/Piyush%20Jain%20(2).png)
 
@@ -16,9 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmbm45)](https://github.com/anuraghazra/github-readme-stats)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushmbm45&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=piyushmbm45)  
-
-![GitHub metrics](https://metrics.lecoq.io/piyushmbm45)      
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=piyushmbm45)     
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyushmbm45)  
 
