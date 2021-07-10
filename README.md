@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on full website building 
 - 📫 How to reach me:
 
-    [<img src="https://img.icons8.com/color/48/000000/github.png" alt='github' height='40'>](https://github.com/piyushmbm45)   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/piyush-jain-mbm/)   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt='instagram' height='40'>](https://www.instagram.com/just-psj/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pexels.svg' alt='pexels' height='40'>](piyush-961964)  
+    [<img src="https://img.icons8.com/color/48/000000/github.png" alt='github' height='40'>](https://github.com/piyushmbm45)   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/piyush-jain-mbm/)   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt='instagram' height='40'>](https://www.instagram.com/just-psj/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pexels.svg' alt='pexels' height='40'>](https://www.pexels.com/@piyush-jain-961964)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmbm45)](https://github.com/anuraghazra/github-readme-stats)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushmbm45&show_icons=true)  
 
