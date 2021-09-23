@@ -1,5 +1,5 @@
 ## Hi there 👋🏻, I'm Piyush Jain
-##### 😍 Future Full Stack Web Developer
+##### 😍 Full Stack Web Developer
 ![Future Full Stack Web Developer](https://github.com/piyushmbm45/piyushmbm45/blob/main/Piyush%20Jain%20(2).png)
 
 ###### I did my Engineering from MBM Engg. College in 2014. After that i decided to teach Physics for different competitive examination like JEE, NEET, KVPY, Olympiad etc. Now few months back i've decided to switch my career line as a full stack web developer and i am really enjoying it.
@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on full website building 
 - 📫 How to reach me:
 
-    [<img src="https://img.icons8.com/color/48/000000/github.png" alt='github' height='40'>](https://github.com/piyushmbm45)   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/piyush-jain-mbm/)   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt='instagram' height='40'>](https://www.instagram.com/just-psj/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pexels.svg' alt='pexels' height='40'>](https://www.pexels.com/@piyush-jain-961964)  
+    [<img src="https://img.icons8.com/color/48/000000/github.png" alt='github' height='40'>](https://github.com/piyushmbm45)   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/piyush-jain-mbm/)   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt='instagram' height='40'>](https://www.instagram.com/just-psj/)   [<img src="https://img.icons8.com/office/40/000000/camera--v2.png"/>](https://www.pexels.com/@piyush-jain-961964) [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="twitter" height="40"/>](https://twitter.com/piyushjmbm) [<img src="https://img.icons8.com/windows/32/000000/dev.png" alt="dev" height="40"/>](https://dev.to/piyushmbm45) [<img src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="hackerrank" height="40"/>](https://www.hackerrank.com/piyushmbm45)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmbm45)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushmbm45&show_icons=true)  
 
