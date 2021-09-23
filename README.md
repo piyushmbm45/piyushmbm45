@@ -2,13 +2,13 @@
 ##### 😍 Future Full Stack Web Developer
 ![Future Full Stack Web Developer](https://github.com/piyushmbm45/piyushmbm45/blob/main/Piyush%20Jain%20(2).png)
 
-###### Currently I am a Physics Faculty. I did my Engineering from MBM Engg. College in 2014. After that i decided to teach Physics for different competitive examination like JEE, NEET, KVPY, Olympiad etc. Now few months back i've decided to switch my career line as a full stack web developer and i am really enjoying it.
+###### I did my Engineering from MBM Engg. College in 2014. After that i decided to teach Physics for different competitive examination like JEE, NEET, KVPY, Olympiad etc. Now few months back i've decided to switch my career line as a full stack web developer and i am really enjoying it.
 
 ## Skills:
-<img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/json.png"/>  <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>  <img src="https://img.icons8.com/wired/64/000000/postman-api.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> <img src="https://img.icons8.com/office/16/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/json.png"/>  <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>  <img src="https://img.icons8.com/wired/48/000000/postman-api.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>
 
 
-- 🌱 I’m currently learning ReactJs 
+- 🌱 I’m currently learning ReactJs  
 - 👯 I’m looking to collaborate on full website building 
 - 📫 How to reach me:
 
@@ -23,4 +23,5 @@
 ![Profile views](https://gpvc.arturio.dev/piyushmbm45)  
 
 ### Show Some ❤️ By Starring my repository
+
 ## Thanks For Visiting
