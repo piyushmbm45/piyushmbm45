@@ -13,12 +13,17 @@
 - 📫 How to reach me:
 
     [<img src="https://img.icons8.com/color/48/000000/github.png" alt='github' height='40'>](https://github.com/piyushmbm45)   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/piyush-jain-mbm/)   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt='instagram' height='40'>](https://www.instagram.com/just-psj/)   [<img src="https://img.icons8.com/office/40/000000/camera--v2.png"/>](https://www.pexels.com/@piyush-jain-961964) [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="twitter" height="40"/>](https://twitter.com/piyushjmbm) [<img src="https://img.icons8.com/windows/32/000000/dev.png" alt="dev" height="40"/>](https://dev.to/piyushmbm45) [<img src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="hackerrank" height="40"/>](https://www.hackerrank.com/piyushmbm45)
+     
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmbm45)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushmbm45&show_icons=true)  
+### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=piyushmbm45)     
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piyushmbm45)  
+<p align="center">
+<a href="https://github.com/piyushmbm45">
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=piyushmbm45&theme=dark&hide_border=true" alt="piyushmbm45" height=200px /> -->
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmbm45&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="piyushmbm45" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=piyushmbm45&show_icons=true&locale=en&theme=dark&hide_border=true" alt="piyushmbm45" height=150px />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushmbm45&theme=dark&hide_border=true" alt="piyushmbm45"/>
+</a>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/piyushmbm45)  
 
