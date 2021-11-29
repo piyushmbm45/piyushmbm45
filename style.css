@@ -1,0 +1,6 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+img[src*="#thumbnail"] {
+  border-radius: 10px;
+}
