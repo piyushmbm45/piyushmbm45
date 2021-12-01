@@ -1,13 +1,18 @@
-## Hi there 👋🏻, I'm Piyush Jain
+## Hi There <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="48px" height="48px" alt='main1'/> I'm Piyush Jain
 <link href='./style.css' rel='stylesheet'/>
-##### 😍 Full Stack Web Developer
+<p>😍 Full Stack Web Developer</p>
+
+<p align="center">
+<a href="https://github.com/piyushmbm45">
 <img src="./Piyush%20Jain%20(1).gif#thumbnail" alt='main'/>
+</p>
 
 
-###### I did my Engineering from MBM Engg. College in 2014. After that i decided to teach Physics for different competitive examination like JEE, NEET, KVPY, Olympiad etc. Now few months back i've decided to switch my career line as a full stack web developer and i am really enjoying it.
+###### I did my Engineering from MBM Engg. College in 2014. After that i decided to teach Physics for different competitive examination like JEE, NEET, KVPY, Olympiad etc. Now i've decided to switch my career line as a full stack web developer and i am really enjoying it.
 
 ## :books: Skills:
-<img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/json.png"/>  <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>  <img src="https://img.icons8.com/wired/48/000000/postman-api.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/json.png"/>  <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>  <img src="https://img.icons8.com/wired/48/000000/postman-api.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>  <img src="https://img.icons8.com/fluency/48/000000/grafana.png"/> 
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 
 
 - 🌱 I’m currently learning ReactJs  
