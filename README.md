@@ -13,6 +13,8 @@
 ## :books: Skills:
 <img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img src="https://img.icons8.com/color/48/000000/json.png"/>  <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>  <img src="https://img.icons8.com/dusk/48/postman-api.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>  <img src="https://img.icons8.com/fluency/48/000000/grafana.png"/> 
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/golang.png"/>
+<img src="https://img.icons8.com/color/48/postgreesql.png"/> <img src="https://img.icons8.com/color/48/nginx.png"/>
+<img src="https://img.icons8.com/color/48/diamond.png"/>
  
 - 🌱 I’m currently learning GoLang <img src="https://img.icons8.com/color/32/golang.png"/>
 - 👯 I’m looking to collaborate on full website building 
