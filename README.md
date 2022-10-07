@@ -19,8 +19,20 @@
 - 🌱 I’m currently learning GoLang <img src="https://img.icons8.com/color/32/golang.png"/>
 - 👯 I’m looking to collaborate on full website building 
 
+ </details>
 
-## ⚙️ &nbsp;GitHub Analytics
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/piyushmbm45/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=piyushmbm45&padding=30&skills=html,go,html,json,javascript,mysql,reactjs,scss,typescript,Ejs,css,scss&show-other-skills=true'>
+  </a>
+
+</details>
+ 
+<details>
+ <summary><b>⚙️ &nbsp;GitHub Analytics</b></summary>
+  <br/>
 
 <p align="center">
 <a href="https://github.com/piyushmbm45">
@@ -29,8 +41,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushmbm45&theme=dark&hide_border=true" alt="piyushmbm45"/>
 </a>
 </p>
+</details>
 
-![Profile views](https://gpvc.arturio.dev/piyushmbm45)  
+![Profile views](https://gpvc.arturio.dev/piyushmbm45) 
+  
 
 - 📫 How to reach me:
 
