@@ -21,16 +21,16 @@
 
  </details>
 
-<details>
+<!-- <details> -->
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/piyushmbm45/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=piyushmbm45&padding=30&skills=html,go,html,json,javascript,mysql,reactjs,scss,typescript,Ejs,css,scss&show-other-skills=true'>
   </a>
 
-</details>
+<!-- </details> -->
  
-<details>
+<!-- <details> -->
  <summary><b>⚙️ &nbsp;GitHub Analytics</b></summary>
   <br/>
 
@@ -41,7 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushmbm45&theme=dark&hide_border=true" alt="piyushmbm45"/>
 </a>
 </p>
-</details>
+<!-- </details> -->
 
 ![Profile views](https://gpvc.arturio.dev/piyushmbm45) 
   
